@@ -5,7 +5,7 @@
 On an Arch-based distribution as root, run the following:
 
 ```
-curl -LO github.com/BKlaasWerkman/KARBS/karbs.sh
+curl -LO raw.githubusercontent.com/BKlaasWerkman/KARBS/master/karbs.sh
 sh karbs.sh
 ```
 

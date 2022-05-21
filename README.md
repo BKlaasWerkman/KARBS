@@ -11,17 +11,17 @@ sh larbs.sh
 
 That's it.
 
-## What is LARBS?
+## What is KARBS?
 
-LARBS is a script that autoinstalls and autoconfigures a fully-functioning
+KARBS is a script that autoinstalls and autoconfigures a fully-functioning
 and minimal terminal-and-vim-based Arch Linux environment.
 
-LARBS can be run on a fresh install of Arch or Artix Linux, and provides you
+KARBS can be run on a fresh install of Arch or Artix Linux, and provides you
 with a fully configured diving-board for work or more customization.
 
 ## Customization
 
-By default, LARBS uses the programs [here in progs.csv](progs.csv) and installs
+By default, KARBS uses the programs [here in progs.csv](progs.csv) and installs
 [my dotfiles repo (voidrice) here](https://github.com/bklaaswerkman/voidrice),
 but you can easily change this by either modifying the default variables at the
 beginning of the script or giving the script one of these options:
@@ -33,7 +33,7 @@ beginning of the script or giving the script one of these options:
 
 ### The `progs.csv` list
 
-LARBS will parse the given programs list and install all given programs. Note
+KARBS will parse the given programs list and install all given programs. Note
 that the programs file must be a three column `.csv`.
 
 The first column is a "tag" that determines how the program is installed, ""

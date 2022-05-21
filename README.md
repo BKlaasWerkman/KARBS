@@ -1,11 +1,11 @@
-# Luke's Auto-Rice Bootstrapping Scripts (LARBS)
+# Klaas's Auto-Rice Bootstrapping Scripts (KARBS)
 
 ## Installation:
 
 On an Arch-based distribution as root, run the following:
 
 ```
-curl -LO github.com/BKlaasWerkman/LARBS/larbs.sh
+curl -LO github.com/BKlaasWerkman/KARBS/karbs.sh
 sh larbs.sh
 ```
 
